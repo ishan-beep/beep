@@ -1,4 +1,4 @@
 # beep
 This is my first git repo.
 <br>
-Author - Ishan pokharel
+Author - Ishan pokharel(Mechanics)
