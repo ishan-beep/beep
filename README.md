@@ -1,3 +1,4 @@
 # beep
-This is my first repo .
-author - Ishan pokharel
+This is my first git repo.
+<br>
+Author - Ishan pokharel
